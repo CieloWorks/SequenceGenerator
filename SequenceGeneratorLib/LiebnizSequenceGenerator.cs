@@ -4,8 +4,8 @@ namespace SequenceGeneratorLib
 {
     //The Liebniz sequence is defined as follows:
     //
-    //T(0) = 1
-    //T(n where n > 0) =
+    //F(0) = 1
+    //F(n where n > 0) =
     //  -1 / (2n + 1) when n is odd
     //   1 / (2n + 1) when n is even
 
